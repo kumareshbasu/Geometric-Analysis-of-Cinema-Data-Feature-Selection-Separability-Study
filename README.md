@@ -1,9 +1,5 @@
 # Geometric Analysis of Cinema Data: Feature Selection & Separability Study
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-green)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
-
 ## 📌 Project Overview
 This project performs a rigorous geometric and statistical analysis of the **MovieLens 20M Dataset** to determine which 'movie DNA' traits (genome tags) are the most informative for predictive Machine Learning models. 
 
