@@ -76,7 +76,7 @@ Based on the covariance heatmaps and geometric overlaps identified during this E
 
 1. Clone this repository.
 2. Download the [MovieLens 20M Dataset](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset).
-3. Extract `rating.csv`, `genome_scores.csv`, `movie.csv`, and `genome_tags.csv` into the root directory.
+3. Extract `rating.csv`,`link.csv`, `tag.csv`, `genome_scores.csv`, `movie.csv`, and `genome_tags.csv` into the root directory.
 4. Run the Jupyter Notebook sequentially. 
 
 *(The notebook includes dynamic `gc.collect()` garbage collection to ensure the 11.7 million row pivot operations do not exceed standard local RAM limits).*
